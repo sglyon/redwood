@@ -1,0 +1,58 @@
+{
+  "23f1f3299e65868ec9ddbacd4f343bf119040f44": {
+    "message": "Revert \"chore: run checks on merge queues\"",
+    "needsCherryPick": false
+  },
+  "a51352635aa09c680d257315510136e0a00d10fb": {
+    "message": "chore: run checks on merge queues",
+    "needsCherryPick": false
+  },
+  "836eb2d93a65fc55966695d56803c11a40f6b478": {
+    "message": "chore(deps): update dependency @types/react to v18.0.28 (#7620)",
+    "needsCherryPick": false
+  },
+  "c58b39cf9cf838775007e969db90f4b4fb3a0bf6": {
+    "message": "chore(deps): update dependency @types/react-dom to v18.0.11 (#7644)",
+    "needsCherryPick": false
+  },
+  "f044dcd5d2412d14db818ae97e9f8f76f778b4e0": {
+    "message": "chore(deps): bump setup of Chakra UI to V2 (#7649)",
+    "needsCherryPick": false
+  },
+  "ce642a591cf5e126206e9f2ded7081ebfc9a638a": {
+    "message": "chore(deps): update dependency @testing-library/react to v14 (#7737)",
+    "needsCherryPick": false
+  },
+  "eda5cdec82901bed0eae96c06802a833e502dde8": {
+    "message": "chore(deps): update dependency @testing-library/dom to v9 (#7736)",
+    "needsCherryPick": false
+  },
+  "ce1e3709363c51357bceb88fc4944a429ca988e8": {
+    "message": "fix(deps): update dependency msw to v1.1.0 (#7733)",
+    "needsCherryPick": false
+  },
+  "28bdd735f678ea9e202309f29f636ac7ed3d841c": {
+    "message": "fix: change isDataEmpty, add codemod, fix codemod (#7704)",
+    "needsCherryPick": false
+  },
+  "c7aa4291d0890831dfce4c4f8e2bbf4e88664ac8": {
+    "message": "fix: avoid naming conflict with `client` prop (#7024)",
+    "needsCherryPick": false
+  },
+  "4d8f0a8216e890272822f27aa38fbdc5d0b93c6d": {
+    "message": "fix(deps): update jest monorepo to v29.4.3 (#7651)",
+    "needsCherryPick": false
+  },
+  "37999cba7bbe89218baabf1d939596eb5e4a1353": {
+    "message": "chore(deps): update dependency @auth0/auth0-spa-js to v2 (#7524)",
+    "needsCherryPick": false
+  },
+  "01237a1e4dcee1b44d9a51de2739c5c17ddc9126": {
+    "message": "fix(deps): update dependency firebase-admin to v11 (#7523)",
+    "needsCherryPick": false
+  },
+  "0678d11d87eaf34c52241d075e665bbc7b9e881f": {
+    "message": "fix(deps): update dependency msw to v1 (#7450)",
+    "needsCherryPick": false
+  }
+}
